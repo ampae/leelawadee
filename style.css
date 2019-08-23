@@ -1,0 +1,19 @@
+/*
+Theme Name: Leelawadee
+Theme URI: https://ampae.com/leelawadee
+Description: Leelawadee is modern and simple HTML5-CSS3 theme for blogging that looks great on any device. Features include a front page template, , and an optional no-sidebar page template. Great typography, amazing css only multi-style buttons, two grids one standard span grid 1-12 another autospan flexbox like. Make it yours with a custom menu, header image, and background.
+Version: 1.0.1
+Author: ampae
+Author URI: https://ampae.com/
+Text Domain: leelawadee
+Tags: blog, one-column, two-columns, right-sidebar, custom-header, custom-menu, editor-style, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, translation-ready
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+
+@import "tmp-css-parts/style.css";

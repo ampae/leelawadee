@@ -1,0 +1,154 @@
+
+html {
+	font-family: sans-serif;
+	-webkit-font-smoothing: antialiased;
+	font-size: 100%
+}
+p {
+	line-height: 1.5rem;
+	margin-bottom: 0;
+	margin-top: 1.5rem
+}
+ul {
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem
+}
+ul li {
+	line-height: 1.5rem
+}
+ul ul {
+	margin-bottom: 0;
+	margin-top: 0
+}
+ul ol {
+	margin-bottom: 0;
+	margin-top: 0
+}
+ol {
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem
+}
+ol li {
+	line-height: 1.5rem
+}
+ol ul {
+	margin-bottom: 0;
+	margin-top: 0
+}
+ol ol {
+	margin-bottom: 0;
+	margin-top: 0
+}
+blockquote {
+	line-height: 1.5rem;
+	margin-bottom: 1.5rem;
+	margin-top: 1.5rem
+}
+h1,h2,h3,h4,h5,h6 {
+	font-family: sans-serif;
+	line-height: 1.5rem;
+	margin-bottom: 0;
+	margin-top: 1.5rem
+}
+h1 {
+	font-size: 3.56rem;
+	line-height: 3.56rem;
+	margin-top: 1.3rem
+}
+h2 {
+	font-size: 2.328rem;
+	line-height: 2.3281rem;
+	margin-top: 1rem
+}
+h3 {
+	font-size: 1.414rem
+}
+h4 {
+	font-size: 1rem
+}
+h5 {
+	font-size: .8rem
+}
+h6 {
+	font-size: .6rem
+}
+
+code {
+	vertical-align: bottom
+}
+.lead {
+	font-size: 1.414rem
+}
+.hug {
+	margin-top: 0
+}
+b {
+	font-weight: bold
+}
+strong {
+	font-weight: bold
+}
+dfn {
+	font-style: italic
+}
+cite {
+	font-style: italic
+}
+em {
+	font-style: italic
+}
+i {
+	font-style: italic
+}
+blockquote {
+	margin: 0 1.5em
+}
+address {
+	margin: 0 0 1.5em
+}
+pre {
+	background: #eeeeee;
+	font-family: "Courier 10 Pitch", Courier, monospace;
+	font-size: 1.5rem;
+	font-size: 15px;
+	line-height: 1.6;
+	margin-bottom: 1.6em;
+	max-width: 100%;
+	overflow: auto;
+	padding: 1.6em
+}
+code, kbd, tt, var {
+	font: 15px Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace
+}
+abbr {
+	border-bottom: 1px dotted #408290;
+	cursor: help
+}
+acronym {
+	border-bottom: 1px dotted #408290;
+	cursor: help
+}
+mark {
+	background: #00BCD4;
+	text-decoration: none
+}
+ins {
+	background: #00BCD4;
+	text-decoration: none
+}
+sup {
+	bottom: 1ex;
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	vertical-align: baseline
+}
+sub {
+	font-size: 75%;
+	height: 0;
+	line-height: 0;
+	position: relative;
+	top: .5ex;
+	vertical-align: baseline
+}

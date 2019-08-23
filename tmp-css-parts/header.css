@@ -1,0 +1,95 @@
+
+#site-header h2 {
+	padding: 20px 0 20px 0;
+	color: #fff
+}
+#site-header h3 {
+	padding: 0 0 20px 0;
+	color: #fff
+}
+
+/*
+banner
+*/
+
+#banner {
+	padding: 0 0 10px 0;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	background-position: center, center
+}
+#banner .inner {
+	margin: 0 auto;
+	width: auto;
+	text-align: center
+}
+#banner .inner2 {
+	margin: 0 auto;
+	width: auto;
+	text-align: center
+}
+#banner p {
+	font-size: 27px;
+	line-height: 33px;
+	font-weight: 400;
+	color: #fff;
+	margin: 0;
+	padding: 0
+}
+@media screen and (max-width: 1280px) {
+	#banner {
+		padding: 0 0 10px 0;
+		background-repeat: no-repeat;
+		background-position: center, center;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover
+}
+}
+@media screen and (max-width: 980px) {
+	#banner {
+		padding: 0 0 10px 0
+}
+	#banner .inner {
+		width: 100%
+}
+}
+@media screen and (max-width: 736px) {
+	#banner {
+		padding: 0 0 10px 0
+}
+	#banner .logo {
+		margin: 0 0 1em 0
+}
+	#banner .logo .icon {
+		font-size: 1.5em
+}
+	#banner h2 {
+		font-size: 1.5em
+}
+	#banner p {
+		font-size: .8em
+}
+}
+
+
+.logo {
+	text-align: left
+}
+.logo2 {
+	text-align: right;
+	float: right
+}
+.logo3 {
+	text-align: center;
+	margin: 0 auto
+}
+@media screen and (max-width: 767px) {
+	.logo {
+		text-align: center
+}
+}

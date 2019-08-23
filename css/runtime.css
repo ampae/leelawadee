@@ -1,0 +1,109 @@
+/*
+body, button, input, select, textarea {
+	 color: #404040;
+	 background: #fff;
+	 font-size: 1em;
+	 line-height: 1.2em;
+}
+*/
+
+/*
+ p {
+	 color: #555;
+	 font-family: 'Roboto Slab', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	 font-size: 1em;
+	 line-height: 1.2em;
+}
+*/
+
+ h1 {
+	 font-size: 3em;
+	 line-height: 1.2;
+	 color: #242434;
+	 font-weight: 400;
+	 font-family: 'Montserrat', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+ h2 {
+	 font-size: 2em;
+	 line-height: 1.2;
+	 color: #242434;
+	 font-weight: 400;
+	 font-family: 'Montserrat', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+ h3 {
+	 font-size: 1em;
+	 line-height: 1.2;
+	 font-weight: 400;
+	 font-family: 'Montserrat', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+ h4 {
+	 font-size: 1em;
+	 line-height: 1.2;
+	 font-weight: 400;
+	 font-family: 'Montserrat', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+ h5 {
+	 font-size: .8em;
+	 line-height: 1.2;
+	 font-weight: 400;
+	 font-family: 'Montserrat', 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#logo img, .logo {
+	min-height: 60px;
+	height: 80px;
+	max-height: 120px;
+}
+
+
+ li {
+	 color: #555;
+	 font-family: 'Roboto Slab', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	 font-size: 1em;
+	 line-height: 1.2;
+}
+
+.placeholder {
+	color: #999
+}
+
+#banner {
+	padding: 0;
+	background-color: #fff;
+}
+#site-header {
+	height: 240px;
+	width: 100%;
+  text-align: center;
+	padding: 40px 0 0 0;
+}
+#site-header h2 {
+	font-size: 3em;
+	font-weight: 300;
+	line-height: 1;
+}
+#site-header h3 {
+	font-size: 1.2em;
+	font-weight: 100;
+	line-height: 1;
+}
+#site-header h2,
+#site-header h3 {
+	color: #fff;
+  text-shadow: 0px 4px 3px rgba(127,127,127,0.6),
+	 						0px 8px 13px rgba(127,127,127,0.2),
+							0px 18px 23px rgba(127,127,127,0.2);
+}
+
+ .site-header {
+	 background-color: rgba(255,255,255,0.8);
+}
+
+ .multi-post {
+
+}
+
+ #colophon {
+	 color: #fff;
+	 background-color: #111;
+}

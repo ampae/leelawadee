@@ -1,0 +1,103 @@
+body {
+	overflow-y: hidden;
+}
+main {
+	min-height: 460px;
+	margin:0;
+	padding:0;
+}
+
+.site-content {
+	margin:0;
+	padding:0;
+}
+
+.content-area-full {
+	float: none;
+	width: 100%;
+}
+
+.content-area {
+	margin:0;
+	float: none;
+	width: 100%;
+}
+
+.widget-area {
+	margin: 10px;
+	margin-top: 10px;
+	float: none;
+	overflow: hidden;
+	width: 100%;
+}
+
+.page {
+	min-height: 400px;
+}
+
+.container {
+	padding: 10px 20px 10px 20px;
+}
+
+@media (min-width: 800px) {
+	.container {
+		padding: 12px 80px 12px 80px;
+	}
+	.widget-area {
+		float: right;
+		width: 340px;
+	}
+	.content-area {
+		margin:0;
+		float: left;
+		width: calc(~'100% - 20px - 340px');
+	}
+}
+
+.site-header {
+	padding: 0;
+	margin: 0;
+	h1 {
+		a {
+			display: inline-block;
+			text-decoration: none;
+		}
+	}
+	h2 {
+		a {
+			display: inline-block;
+			text-decoration: none;
+		}
+	}
+}
+.site-title {
+	margin: 0;
+	line-height: 2rem;
+	font-size: 2rem;
+}
+.site-description {
+	margin: 0;
+	line-height: 1.5em;
+	font-weight: normal;
+	font-size: 14px;
+}
+
+section {
+	background-color: inherit;
+}
+article {
+	display: block;
+	width: 100%;
+	z-index: 5;
+	margin: 0;
+}
+
+aside {
+	margin:0;
+	padding:0;
+}
+
+.site-footer {
+	clear: both;
+	width: 100%;
+}

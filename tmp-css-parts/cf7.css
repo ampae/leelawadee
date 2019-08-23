@@ -1,0 +1,70 @@
+
+div.wpcf7 {
+	font-family: 'Roboto', sans-serif !important;
+	background: #eee !important;
+	padding: 7%;
+	border-top: 7px solid #f00
+}
+div.wpcf7 p {
+	line-height: 1;
+	padding: 5px
+}
+div.wpcf7 input {
+	margin: 0
+}
+.wpcf7 input[type="text"] {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: 300;
+	background: #FFF !important;
+	color: #333 !important;
+	border: 0 !important;
+	border-bottom: 1px solid #ccc !important;
+	padding: 5px !important;
+	margin: 0 !important
+}
+.wpcf7 input[type="email"] {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: 300;
+	background: #FFF !important;
+	color: #333 !important;
+	border: 0 !important;
+	border-bottom: 1px solid #ccc !important;
+	padding: 5px !important;
+	margin: 0 !important
+}
+.wpcf7 textarea {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: 300;
+	background: #FFF !important;
+	color: #333 !important;
+	border: 0 !important;
+	border-bottom: 1px solid #ccc !important;
+	padding: 5px !important;
+	margin: 0 !important
+}
+.wpcf7 input[type="submit"] {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: 400;
+	font-size: .85em;
+	width: 50%;
+	text-align: center;
+	text-transform: uppercase;
+	border: 1px solid #da3e30;
+	border-radius: 5px
+}
+.wpcf7 input[type="button"] {
+	font-family: 'Roboto', sans-serif !important;
+	font-weight: 400;
+	font-size: .85em;
+	width: 50%;
+	padding: 10px;
+	text-align: center;
+	text-transform: uppercase;
+	border: 1px solid #da3e30;
+	border-radius: 5px
+}
+.wpcf7-form textarea {
+	line-height: 16px;
+	font-size: 14px;
+	height: 80px
+}

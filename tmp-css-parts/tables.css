@@ -1,0 +1,55 @@
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	border-top: 1px solid #ddd;
+	border-left: 1px solid #ddd;
+	font-size: 13px;
+	text-align: left;
+	margin: 0 -1px 0 0;
+	width: 100%
+}
+table caption {
+	border: 1px solid #ddd;
+	border-bottom: none;
+	text-align: center;
+	font-weight: bold;
+	padding: 10px 0;
+	text-transform: uppercase
+}
+table td:hover {
+	background: #f9f9f9
+}
+td {
+	text-align: left;
+	padding: 10px
+}
+th {
+	text-align: left;
+	padding: 10px;
+	background: #f9f9f9;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd
+}
+tfoot td {
+	border: 0
+}
+tr th {
+	padding: 9px 0;
+	text-align: center;
+	font-weight: bold
+}
+tr td {
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	padding: 6px;
+	text-align: center
+}
+thead th {
+	padding: 9px 0;
+	text-align: center;
+	font-weight: bold;
+	border-right: 1px solid #ddd
+}
+tr.odd td {
+	background: #F2F7FC
+}

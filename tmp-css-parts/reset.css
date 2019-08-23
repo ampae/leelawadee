@@ -1,0 +1,174 @@
+* {
+	margin: 0;
+	padding: 0;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+*:before {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+*:after {
+	-moz-box-sizing: border-box;
+	box-sizing: border-box
+}
+html {
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+	overflow-y: scroll
+}
+html,body {
+	border: 0;
+	font-family: "Helvetica-Neue", "Helvetica", Arial, sans-serif;
+	line-height: 1.5;
+	margin: 0;
+	padding: 0
+}
+body {
+	overflow-y: hidden
+}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,font,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td {
+	border: 0;
+	font-family: inherit;
+	font-size: 100%;
+	font-style: inherit;
+	font-weight: inherit;
+	margin: 0;
+	padding: 0;
+	vertical-align: baseline
+}
+div,span,object,iframe,img,table,caption,thead,tbody,tfoot,tr,tr,td,article,aside,canvas,details,figure,hgroup,menu,nav,footer,header,section,summary,mark,audio,video {
+	border: 0;
+	margin: 0;
+	padding: 0
+}
+h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,address,cit,code,del,dfn,em,ins,q,samp,small,strong,sub,sup,b,i,hr,dl,dt,dd,ol,ul,li,fieldset,legend,label {
+	border: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	margin: 0;
+	padding: 0
+}
+article,aside,canvas,figure,figure img,figcaption,hgroup,details,main,footer,header,nav,section,audio,video {
+	display: block
+}
+
+table {
+	border-collapse: separate;
+	border-spacing: 0
+}
+table caption,table th,table td {
+	text-align: left;
+	vertical-align: middle
+}
+table {
+	margin: 0 0 1.5em;
+	width: 100%;
+	border-collapse: separate;
+	border-spacing: 0
+}
+caption {
+	font-weight: normal
+}
+th {
+	font-weight: normal;
+	font-weight: bold
+}
+td {
+	font-weight: normal
+}
+dt {
+	font-weight: bold
+}
+dd {
+	margin: 0 1.5em 1.5em
+}
+
+hr {
+	background: #ccc;
+	border: 0;
+	height: 1px;
+	margin: 0;
+	padding: 0
+}
+figure {
+	display: block;
+	margin: 0
+}
+
+ul {
+	margin: 0 0 1.5em 3em;
+	list-style: disc
+}
+ol {
+	margin: 0 0 1.5em 3em;
+	list-style: decimal
+}
+li>ul {
+	margin-bottom: 0;
+	margin-left: 1.5em
+}
+li>ol {
+	margin-bottom: 0;
+	margin-left: 1.5em
+}
+
+blockquote {
+	quotes: """"
+}
+blockquote:before {
+	content: ""
+}
+blockquote:after {
+	content: ""
+}
+q {
+	quotes: """"
+}
+q:before {
+	content: ""
+}
+q:after {
+	content: ""
+}
+a {
+	text-decoration: none;
+}
+a:focus {
+	text-decoration: none;
+	outline: 0
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a img {
+	border: 0
+}
+img {
+	height: auto;
+	max-width: 100%;
+	-ms-interpolation-mode: bicubic;
+	border: 0;
+	vertical-align: middle;
+}
+svg:not(:root) {
+	overflow: hidden
+}
+iframe {
+	border: 0;
+	max-width: 100%
+}
+object {
+	border: 0;
+	max-width: 100%
+}
+embed {
+	border: 0;
+	max-width: 100%
+}
