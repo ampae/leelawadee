@@ -1,2 +1,3 @@
 1. remove all colors from woo and add them to runtime !
 2. fix minor bugs !
+3. remove all grid, move to flexbox !
