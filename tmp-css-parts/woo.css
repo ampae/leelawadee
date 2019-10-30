@@ -491,6 +491,20 @@ body.woocommerce-checkout table.cart td.actions .coupon .input-text {
 	border-top: 1px solid #139248;
 	border-bottom: 1px solid #139248
 }
+
+.woocommerce-checkout .content-area {
+    width: 90%;
+}
+.woocommerce-checkout #secondary {
+    display: none;
+}
+.woocommerce-cart .content-area {
+    width: 90%;
+}
+.woocommerce-cart #secondary {
+    display: none;
+}
+
 @media only screen and (max-width: 1139px) {
 	.woocommerce-cart .entry-content form {
 		width: 64%
