@@ -1,8 +1,8 @@
 === Leelawadee ===
 Contributors: alvimedia, infinitools, ampae
-Requires at least: WordPress 3.5
-Tested up to: WordPress 5.2
-Requires PHP: 5.2.4
+Requires at least: WordPress 4.1
+Tested up to: WordPress 5.3
+Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -11,7 +11,7 @@ Tags: blog, one-column, two-columns, right-sidebar, custom-background, custom-he
 == Description ==
 Leelawadee is modern and simple HTML5-CSS3 theme for blogging that looks great on any device. Features include a front page template, , and an optional no-sidebar page template. Great typography, amazing css only multi-style buttons, two grids one standard span grid 1-12 another autospan flexbox like. Make it yours with a custom menu, header image, and background.
 
-For more information about Leelawadee please go to https://ampae.com/leelawadee
+For more information about Leelawadee please go to https://ampae.com/wp/leelawadee
 
 == TODO ==
 1. footer - style bg
